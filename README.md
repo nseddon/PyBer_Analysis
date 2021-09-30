@@ -5,8 +5,8 @@ Explain the purpose of the new analysis
 
 ## Resources
 - Data Source: 
-- ![city_data.csv](https://github.com/nseddon/PyBer_Analysis/blob/main/Resources/city_data.csv)
-- ![ride_data.csv](https://github.com/nseddon/PyBer_Analysis/blob/main/Resources/ride_data.csv)
+- [city_data.csv](https://github.com/nseddon/PyBer_Analysis/blob/main/Resources/city_data.csv)
+- [ride_data.csv](https://github.com/nseddon/PyBer_Analysis/blob/main/Resources/ride_data.csv)
 
 - Software: Python 3.7.6, Anaconda 4.10.1
 
