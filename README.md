@@ -12,6 +12,12 @@ Explain the purpose of the new analysis
 
 ## Results: 
 Differences in ride-sharing data among the different city types.
+- Total Rides by city
+- Total Drivers by city
+- Total Fares by city
+- Average Fare per ride by city
+- Average Fare per driver by city
+- Total Fare by city
 
 ![PyBer_fare_summary.PNG](https://github.com/nseddon/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 
