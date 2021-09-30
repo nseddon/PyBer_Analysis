@@ -20,6 +20,7 @@ Differences in ride-sharing data among the different city types.
 - Total Fare by city
 
 ![PyBer_fare_summary.PNG](https://github.com/nseddon/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
+![PyBer_summary_by_city.png](https://github.com/nseddon/PyBer_Analysis/blob/main/analysis/PyBer_summary_by_city.PNG)
 
 ## Summary: 
 Provide three business recommendations to the CEO for addressing any disparities among the city types.
